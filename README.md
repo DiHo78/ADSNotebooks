@@ -1,4 +1,5 @@
 # ADSNotebooks
 
+I've started with only 2 notebooks to show a weird ADS problem I had.
 
- by now I have only 2 notebooks in it to show my weird ADS problem
+BY the time there will be probably more ADS NBs I'll create
